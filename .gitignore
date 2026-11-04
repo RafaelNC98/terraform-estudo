@@ -1,0 +1,16 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+*.tfvars
+*.tfvars.json
+*_override.tf
+*_override.tf.json
+override.tf
+override.tf.json
+
+# Local course materials
+/comandos/
+/comandos.zip
